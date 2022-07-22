@@ -45,7 +45,7 @@
     "formdata-node": "^4.3.0",
     "formidable": "^2.0.0-dev.20200131.2",
     "mime-types": "^2.1.33",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.2.9",
     "simple-git": "^2.20.1",
     "stream-slice": "^0.1.2",
     "urlpattern-polyfill": "^4.0.3"
